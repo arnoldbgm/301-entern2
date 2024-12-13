@@ -1,0 +1,31 @@
+[
+   {
+     "id": 1,
+     "nombre": "Superman",
+     "descripcion": "El hombre de acero, con fuerza sobrehumana, visión láser y capacidad de volar.",
+     "imagen_url": "https://example.com/images/superman.jpg",
+     "poderes": ["Fuerza sobrehumana", "Visión láser", "Vuelo", "Invulnerabilidad"]
+   },
+   {
+     "id": 2,
+     "nombre": "Batman",
+     "descripcion": "El caballero oscuro, un detective experto con gadgets avanzados y entrenamiento extremo.",
+     "imagen_url": "https://example.com/images/batman.jpg",
+     "poderes": ["Habilidad de combate", "Intelecto superior", "Maestro de la tecnología"]
+   },
+   {
+     "id": 3,
+     "nombre": "Wonder Woman",
+     "descripcion": "Una amazona guerrera con fuerza divina y su lazo de la verdad.",
+     "imagen_url": "https://example.com/images/wonder-woman.jpg",
+     "poderes": ["Fuerza sobrehumana", "Lazo de la verdad", "Habilidad de combate", "Inmortalidad"]
+   },
+   {
+     "id": 4,
+     "nombre": "Spider-Man",
+     "descripcion": "El héroe arácnido, con poderes de trepar muros y lanzar telarañas.",
+     "imagen_url": "https://example.com/images/spider-man.jpg",
+     "poderes": ["Agilidad sobrehumana", "Trepar paredes", "Sentido arácnido", "Lanzar telarañas"]
+   }
+ ]
+ 
