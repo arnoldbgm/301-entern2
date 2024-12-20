@@ -1,8 +1,7 @@
-// Quiero que cree un endpoint
-//  Tipo GET => que me duelva todas las bestias
-//  localhost:5000/apiv1/beasts
+// Para crear una ruta
+import express from "express";
 
+const router = express.Router();
 
-// Quiero que cree un endpoint
-//  Tipo GET => que me duelva 1 registro
-//  localhost:5000/apiv1/beasts/1
+export default router;
+
